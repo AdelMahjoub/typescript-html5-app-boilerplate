@@ -1,0 +1,1 @@
+A boilerplate with good defaults to quickly start writing a html5 typescript application.
